@@ -1,21 +1,21 @@
 {
-  "name": "js-project-7",
+  "name": "team-project-2-js-filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://NilKad.github.io/js-project-7",
+  "homepage": "https://NilKad.github.io/team-project-2-js-filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /js-project-7/"
+    "build": "parcel build src/*.html --public-url /team-project-2-js-filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NilKad/js-project-7.git"
+    "url": "git+https://github.com/NilKad/jteam-project-2-js-filmoteka.git"
   },
   "keywords": [],
   "author": "Alexander Kadulin <kadulin@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NilKad/js-project-7/issues"
+    "url": "https://github.com/NilKad/team-project-2-js-filmoteka/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
